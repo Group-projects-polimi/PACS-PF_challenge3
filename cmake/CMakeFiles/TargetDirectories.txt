@@ -1,0 +1,3 @@
+/Users/pietrofumagalli/Desktop/POLIMI/4_ANNO/2_SEMESTRE/PACS/challenges/challenge3-sota/cmake/CMakeFiles/executable.dir
+/Users/pietrofumagalli/Desktop/POLIMI/4_ANNO/2_SEMESTRE/PACS/challenges/challenge3-sota/cmake/CMakeFiles/edit_cache.dir
+/Users/pietrofumagalli/Desktop/POLIMI/4_ANNO/2_SEMESTRE/PACS/challenges/challenge3-sota/cmake/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,9 @@
+{
+	"max_iterations": 10000,
+    "tolerance": 1e-12,
+    "grid_points_in_each_direction": 10,
+    "exact_solution_given": true,
+	"forcing_term": "8*_pi^2*sin(2*_pi*x1)*sin(2*_pi*x2)",
+    "boundary_condition": "0",
+    "exact_solution": "sin(2*_pi*x1)*sin(2*_pi*x2)"
+}

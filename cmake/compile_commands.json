@@ -1,0 +1,62 @@
+[
+{
+  "directory": "/Users/pietrofumagalli/Desktop/POLIMI/4_ANNO/2_SEMESTRE/PACS/challenges/challenge3-sota/cmake",
+  "command": "/usr/bin/c++ -DDEBUG -DTEST -I/Users/pietrofumagalli/Desktop/POLIMI/4_ANNO/2_SEMESTRE/PACS/challenges/challenge3-sota/include -I/Users/pietrofumagalli/Desktop/POLIMI/4_ANNO/2_SEMESTRE/PACS/challenges/challenge3-sota/test -I/Users/pietrofumagalli/Desktop/POLIMI/4_ANNO/2_SEMESTRE/PACS/challenges/challenge3-sota/include/muparser -I/Users/pietrofumagalli/Desktop/POLIMI/4_ANNO/2_SEMESTRE/PACS/challenges/challenge3-sota/include/parameters -I/Users/pietrofumagalli/Desktop/POLIMI/4_ANNO/2_SEMESTRE/PACS/challenges/challenge3-sota/include/solver -std=c++2b -arch arm64 -o CMakeFiles/executable.dir/src/main.cpp.o -c /Users/pietrofumagalli/Desktop/POLIMI/4_ANNO/2_SEMESTRE/PACS/challenges/challenge3-sota/src/main.cpp",
+  "file": "/Users/pietrofumagalli/Desktop/POLIMI/4_ANNO/2_SEMESTRE/PACS/challenges/challenge3-sota/src/main.cpp",
+  "output": "CMakeFiles/executable.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/pietrofumagalli/Desktop/POLIMI/4_ANNO/2_SEMESTRE/PACS/challenges/challenge3-sota/cmake",
+  "command": "/usr/bin/c++ -DDEBUG -DTEST -I/Users/pietrofumagalli/Desktop/POLIMI/4_ANNO/2_SEMESTRE/PACS/challenges/challenge3-sota/include -I/Users/pietrofumagalli/Desktop/POLIMI/4_ANNO/2_SEMESTRE/PACS/challenges/challenge3-sota/test -I/Users/pietrofumagalli/Desktop/POLIMI/4_ANNO/2_SEMESTRE/PACS/challenges/challenge3-sota/include/muparser -I/Users/pietrofumagalli/Desktop/POLIMI/4_ANNO/2_SEMESTRE/PACS/challenges/challenge3-sota/include/parameters -I/Users/pietrofumagalli/Desktop/POLIMI/4_ANNO/2_SEMESTRE/PACS/challenges/challenge3-sota/include/solver -std=c++2b -arch arm64 -o CMakeFiles/executable.dir/src/muparser/muParser.cpp.o -c /Users/pietrofumagalli/Desktop/POLIMI/4_ANNO/2_SEMESTRE/PACS/challenges/challenge3-sota/src/muparser/muParser.cpp",
+  "file": "/Users/pietrofumagalli/Desktop/POLIMI/4_ANNO/2_SEMESTRE/PACS/challenges/challenge3-sota/src/muparser/muParser.cpp",
+  "output": "CMakeFiles/executable.dir/src/muparser/muParser.cpp.o"
+},
+{
+  "directory": "/Users/pietrofumagalli/Desktop/POLIMI/4_ANNO/2_SEMESTRE/PACS/challenges/challenge3-sota/cmake",
+  "command": "/usr/bin/c++ -DDEBUG -DTEST -I/Users/pietrofumagalli/Desktop/POLIMI/4_ANNO/2_SEMESTRE/PACS/challenges/challenge3-sota/include -I/Users/pietrofumagalli/Desktop/POLIMI/4_ANNO/2_SEMESTRE/PACS/challenges/challenge3-sota/test -I/Users/pietrofumagalli/Desktop/POLIMI/4_ANNO/2_SEMESTRE/PACS/challenges/challenge3-sota/include/muparser -I/Users/pietrofumagalli/Desktop/POLIMI/4_ANNO/2_SEMESTRE/PACS/challenges/challenge3-sota/include/parameters -I/Users/pietrofumagalli/Desktop/POLIMI/4_ANNO/2_SEMESTRE/PACS/challenges/challenge3-sota/include/solver -std=c++2b -arch arm64 -o CMakeFiles/executable.dir/src/muparser/muParserBase.cpp.o -c /Users/pietrofumagalli/Desktop/POLIMI/4_ANNO/2_SEMESTRE/PACS/challenges/challenge3-sota/src/muparser/muParserBase.cpp",
+  "file": "/Users/pietrofumagalli/Desktop/POLIMI/4_ANNO/2_SEMESTRE/PACS/challenges/challenge3-sota/src/muparser/muParserBase.cpp",
+  "output": "CMakeFiles/executable.dir/src/muparser/muParserBase.cpp.o"
+},
+{
+  "directory": "/Users/pietrofumagalli/Desktop/POLIMI/4_ANNO/2_SEMESTRE/PACS/challenges/challenge3-sota/cmake",
+  "command": "/usr/bin/c++ -DDEBUG -DTEST -I/Users/pietrofumagalli/Desktop/POLIMI/4_ANNO/2_SEMESTRE/PACS/challenges/challenge3-sota/include -I/Users/pietrofumagalli/Desktop/POLIMI/4_ANNO/2_SEMESTRE/PACS/challenges/challenge3-sota/test -I/Users/pietrofumagalli/Desktop/POLIMI/4_ANNO/2_SEMESTRE/PACS/challenges/challenge3-sota/include/muparser -I/Users/pietrofumagalli/Desktop/POLIMI/4_ANNO/2_SEMESTRE/PACS/challenges/challenge3-sota/include/parameters -I/Users/pietrofumagalli/Desktop/POLIMI/4_ANNO/2_SEMESTRE/PACS/challenges/challenge3-sota/include/solver -std=c++2b -arch arm64 -o CMakeFiles/executable.dir/src/muparser/muParserBytecode.cpp.o -c /Users/pietrofumagalli/Desktop/POLIMI/4_ANNO/2_SEMESTRE/PACS/challenges/challenge3-sota/src/muparser/muParserBytecode.cpp",
+  "file": "/Users/pietrofumagalli/Desktop/POLIMI/4_ANNO/2_SEMESTRE/PACS/challenges/challenge3-sota/src/muparser/muParserBytecode.cpp",
+  "output": "CMakeFiles/executable.dir/src/muparser/muParserBytecode.cpp.o"
+},
+{
+  "directory": "/Users/pietrofumagalli/Desktop/POLIMI/4_ANNO/2_SEMESTRE/PACS/challenges/challenge3-sota/cmake",
+  "command": "/usr/bin/c++ -DDEBUG -DTEST -I/Users/pietrofumagalli/Desktop/POLIMI/4_ANNO/2_SEMESTRE/PACS/challenges/challenge3-sota/include -I/Users/pietrofumagalli/Desktop/POLIMI/4_ANNO/2_SEMESTRE/PACS/challenges/challenge3-sota/test -I/Users/pietrofumagalli/Desktop/POLIMI/4_ANNO/2_SEMESTRE/PACS/challenges/challenge3-sota/include/muparser -I/Users/pietrofumagalli/Desktop/POLIMI/4_ANNO/2_SEMESTRE/PACS/challenges/challenge3-sota/include/parameters -I/Users/pietrofumagalli/Desktop/POLIMI/4_ANNO/2_SEMESTRE/PACS/challenges/challenge3-sota/include/solver -std=c++2b -arch arm64 -o CMakeFiles/executable.dir/src/muparser/muParserCallback.cpp.o -c /Users/pietrofumagalli/Desktop/POLIMI/4_ANNO/2_SEMESTRE/PACS/challenges/challenge3-sota/src/muparser/muParserCallback.cpp",
+  "file": "/Users/pietrofumagalli/Desktop/POLIMI/4_ANNO/2_SEMESTRE/PACS/challenges/challenge3-sota/src/muparser/muParserCallback.cpp",
+  "output": "CMakeFiles/executable.dir/src/muparser/muParserCallback.cpp.o"
+},
+{
+  "directory": "/Users/pietrofumagalli/Desktop/POLIMI/4_ANNO/2_SEMESTRE/PACS/challenges/challenge3-sota/cmake",
+  "command": "/usr/bin/c++ -DDEBUG -DTEST -I/Users/pietrofumagalli/Desktop/POLIMI/4_ANNO/2_SEMESTRE/PACS/challenges/challenge3-sota/include -I/Users/pietrofumagalli/Desktop/POLIMI/4_ANNO/2_SEMESTRE/PACS/challenges/challenge3-sota/test -I/Users/pietrofumagalli/Desktop/POLIMI/4_ANNO/2_SEMESTRE/PACS/challenges/challenge3-sota/include/muparser -I/Users/pietrofumagalli/Desktop/POLIMI/4_ANNO/2_SEMESTRE/PACS/challenges/challenge3-sota/include/parameters -I/Users/pietrofumagalli/Desktop/POLIMI/4_ANNO/2_SEMESTRE/PACS/challenges/challenge3-sota/include/solver -std=c++2b -arch arm64 -o CMakeFiles/executable.dir/src/muparser/muParserError.cpp.o -c /Users/pietrofumagalli/Desktop/POLIMI/4_ANNO/2_SEMESTRE/PACS/challenges/challenge3-sota/src/muparser/muParserError.cpp",
+  "file": "/Users/pietrofumagalli/Desktop/POLIMI/4_ANNO/2_SEMESTRE/PACS/challenges/challenge3-sota/src/muparser/muParserError.cpp",
+  "output": "CMakeFiles/executable.dir/src/muparser/muParserError.cpp.o"
+},
+{
+  "directory": "/Users/pietrofumagalli/Desktop/POLIMI/4_ANNO/2_SEMESTRE/PACS/challenges/challenge3-sota/cmake",
+  "command": "/usr/bin/c++ -DDEBUG -DTEST -I/Users/pietrofumagalli/Desktop/POLIMI/4_ANNO/2_SEMESTRE/PACS/challenges/challenge3-sota/include -I/Users/pietrofumagalli/Desktop/POLIMI/4_ANNO/2_SEMESTRE/PACS/challenges/challenge3-sota/test -I/Users/pietrofumagalli/Desktop/POLIMI/4_ANNO/2_SEMESTRE/PACS/challenges/challenge3-sota/include/muparser -I/Users/pietrofumagalli/Desktop/POLIMI/4_ANNO/2_SEMESTRE/PACS/challenges/challenge3-sota/include/parameters -I/Users/pietrofumagalli/Desktop/POLIMI/4_ANNO/2_SEMESTRE/PACS/challenges/challenge3-sota/include/solver -std=c++2b -arch arm64 -o CMakeFiles/executable.dir/src/muparser/muParserTokenReader.cpp.o -c /Users/pietrofumagalli/Desktop/POLIMI/4_ANNO/2_SEMESTRE/PACS/challenges/challenge3-sota/src/muparser/muParserTokenReader.cpp",
+  "file": "/Users/pietrofumagalli/Desktop/POLIMI/4_ANNO/2_SEMESTRE/PACS/challenges/challenge3-sota/src/muparser/muParserTokenReader.cpp",
+  "output": "CMakeFiles/executable.dir/src/muparser/muParserTokenReader.cpp.o"
+},
+{
+  "directory": "/Users/pietrofumagalli/Desktop/POLIMI/4_ANNO/2_SEMESTRE/PACS/challenges/challenge3-sota/cmake",
+  "command": "/usr/bin/c++ -DDEBUG -DTEST -I/Users/pietrofumagalli/Desktop/POLIMI/4_ANNO/2_SEMESTRE/PACS/challenges/challenge3-sota/include -I/Users/pietrofumagalli/Desktop/POLIMI/4_ANNO/2_SEMESTRE/PACS/challenges/challenge3-sota/test -I/Users/pietrofumagalli/Desktop/POLIMI/4_ANNO/2_SEMESTRE/PACS/challenges/challenge3-sota/include/muparser -I/Users/pietrofumagalli/Desktop/POLIMI/4_ANNO/2_SEMESTRE/PACS/challenges/challenge3-sota/include/parameters -I/Users/pietrofumagalli/Desktop/POLIMI/4_ANNO/2_SEMESTRE/PACS/challenges/challenge3-sota/include/solver -std=c++2b -arch arm64 -o CMakeFiles/executable.dir/src/parameters/parameters.cpp.o -c /Users/pietrofumagalli/Desktop/POLIMI/4_ANNO/2_SEMESTRE/PACS/challenges/challenge3-sota/src/parameters/parameters.cpp",
+  "file": "/Users/pietrofumagalli/Desktop/POLIMI/4_ANNO/2_SEMESTRE/PACS/challenges/challenge3-sota/src/parameters/parameters.cpp",
+  "output": "CMakeFiles/executable.dir/src/parameters/parameters.cpp.o"
+},
+{
+  "directory": "/Users/pietrofumagalli/Desktop/POLIMI/4_ANNO/2_SEMESTRE/PACS/challenges/challenge3-sota/cmake",
+  "command": "/usr/bin/c++ -DDEBUG -DTEST -I/Users/pietrofumagalli/Desktop/POLIMI/4_ANNO/2_SEMESTRE/PACS/challenges/challenge3-sota/include -I/Users/pietrofumagalli/Desktop/POLIMI/4_ANNO/2_SEMESTRE/PACS/challenges/challenge3-sota/test -I/Users/pietrofumagalli/Desktop/POLIMI/4_ANNO/2_SEMESTRE/PACS/challenges/challenge3-sota/include/muparser -I/Users/pietrofumagalli/Desktop/POLIMI/4_ANNO/2_SEMESTRE/PACS/challenges/challenge3-sota/include/parameters -I/Users/pietrofumagalli/Desktop/POLIMI/4_ANNO/2_SEMESTRE/PACS/challenges/challenge3-sota/include/solver -std=c++2b -arch arm64 -o CMakeFiles/executable.dir/src/solver/solver.cpp.o -c /Users/pietrofumagalli/Desktop/POLIMI/4_ANNO/2_SEMESTRE/PACS/challenges/challenge3-sota/src/solver/solver.cpp",
+  "file": "/Users/pietrofumagalli/Desktop/POLIMI/4_ANNO/2_SEMESTRE/PACS/challenges/challenge3-sota/src/solver/solver.cpp",
+  "output": "CMakeFiles/executable.dir/src/solver/solver.cpp.o"
+},
+{
+  "directory": "/Users/pietrofumagalli/Desktop/POLIMI/4_ANNO/2_SEMESTRE/PACS/challenges/challenge3-sota/cmake",
+  "command": "/usr/bin/c++ -DDEBUG -DTEST -I/Users/pietrofumagalli/Desktop/POLIMI/4_ANNO/2_SEMESTRE/PACS/challenges/challenge3-sota/include -I/Users/pietrofumagalli/Desktop/POLIMI/4_ANNO/2_SEMESTRE/PACS/challenges/challenge3-sota/test -I/Users/pietrofumagalli/Desktop/POLIMI/4_ANNO/2_SEMESTRE/PACS/challenges/challenge3-sota/include/muparser -I/Users/pietrofumagalli/Desktop/POLIMI/4_ANNO/2_SEMESTRE/PACS/challenges/challenge3-sota/include/parameters -I/Users/pietrofumagalli/Desktop/POLIMI/4_ANNO/2_SEMESTRE/PACS/challenges/challenge3-sota/include/solver -std=c++2b -arch arm64 -o CMakeFiles/executable.dir/test/test.cpp.o -c /Users/pietrofumagalli/Desktop/POLIMI/4_ANNO/2_SEMESTRE/PACS/challenges/challenge3-sota/test/test.cpp",
+  "file": "/Users/pietrofumagalli/Desktop/POLIMI/4_ANNO/2_SEMESTRE/PACS/challenges/challenge3-sota/test/test.cpp",
+  "output": "CMakeFiles/executable.dir/test/test.cpp.o"
+}
+]
