@@ -36,6 +36,8 @@ laplace_solver/
         └── libmuparser.so.2.3.5
 ```
 
+> ⚠️ **Warning**: on MacOs, _make_ will automatically find the OpenMp installation only if it was installed via Homebrew.
+
 ## Getting started
 To solve a laplace equation just write your _mydata.json_ file or modify the provided one, here it's possible to specify number of grid points, boundary conditions and forcing term among other options. Such files can be passed to the program with _mpirun -np 4 executable mydata.json_ or _./executable mydata.json_.
 
